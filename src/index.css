@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.opa {
+  z-index: 9999;
+}
+
+.neg {
+  z-index: 1;
+}
